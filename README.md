@@ -28,3 +28,4 @@ The following Packages are required to deploy application
 
 ## Walkthrough Video 
 
+[watch walkthrough video](https://github.com/Mimimoha/internetcompany/blob/main/main/mycompany.mp4)
